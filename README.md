@@ -55,7 +55,7 @@
 - Kafiye düzeni ``aaab, cccb, dddb`` şeklinde olup ``Düz Uyak``tır. 
 - Ahengi sağlamak için ``Yarım Kafiye``, ``Redif``, ``Aliterasyon`` ve ``Asonanslar``dan faydalanır.
 
-### İlahi
+### ilahi
 - Allah'a duyulan dini aşk ve dini temaların işlendiği şiirler.
 - Özel bir ezgi ile söylenirler.
 - İlahiler tarikatlara göre farklı isimlerle anılabilir.
