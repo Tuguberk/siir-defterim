@@ -75,8 +75,8 @@
 - ``Hece`` veya ``Aruz`` ölçüsü kullanılabilir.
 - En bilindik sanatçısı ``Yunus Emre``dir.
 
-#### Nefes
+    #### Nefes
     - Bektaşi aşıkları tarafından yazılan tasavvuf konulu şiirler.
-    - ``7,8, 11'li Hece Ölçüsü`` kullanılır.
-    - Nazım birimi ``Dörtlük``tür.
+    - 7,8, 11'li Hece Ölçüsü kullanılır.
+    - Nazım birimi Dörtlüktür.
     - Gösterişsiz, alçak gönüllü ve alaycı bir uslup kullanılmaktadır.
