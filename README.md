@@ -90,6 +90,29 @@ Ben Tuğberk Akbulut. 10. Sınıf Edebiyat dersinden aldığım proje ödevi ned
     - Nazım birimi Dörtlüktür.
     - Gösterişsiz, alçak gönüllü ve alaycı bir uslup kullanılmaktadır.
 
+**Benim şiirim:**
+``` 
+Yarabbim sen beni sakla
+Ben şerden sana sığındım
+Lokman hekim acep yolda
+Olup Mecnun gibi geldi
+
+Ben yanam nice dert ile
+Dilim söyler sünnet ile
+Ecel bir gün canım ala
+Gidem bilinmez neyledi
+
+Gökte var imiş yıldızım
+Nicece gökte yıldırım
+Gariplere bakar özüm
+Başım bağlı, gözüm yaşlı
+
+Kahrımdan koşar da durmam
+Diken batsa da durulmam
+Ya Muhammed yüzün görsem
+Bendeki kalp özler seni
+```
+
 ### Mani
 - Aşk, ayrılık, öğüt, eleştiri, ölüm gibi konular işlenir.
 - Kafiye düzeni ``aaxa`` şeklinde olup ``Mani Tipi`` uyaktır.
@@ -98,16 +121,39 @@ Ben Tuğberk Akbulut. 10. Sınıf Edebiyat dersinden aldığım proje ödevi ned
     ### Düz (Tam) Mani
     - ``4 mısradan`` oluşur.
     - ``7'li hece ölçüsü`` kullanılır.
-    
+
+    **Benim şiirim:**
+   ``` 
+    Kalbimin sesi geldi
+    Bahar yıldızım esti
+    Kalbimden vurulmuşum
+    Yarim gürledi esti
+    ```
     ### Cinaslı (Kesikli) Mani
     - ``4, 5 mısradan`` oluşur.
     - İlk mısrası ``7 heceden daha azdır``
     - ``Cinaslı Kafiye`` kullanılır.
 
+    **Benim şiirim:**
+    ```
+    Dağdan ince
+    Görüşelim yüzyüze
+    Elbet yağacak ya kar
+    Bakma göklere öyle
+    Gönlünü alev yakar
+    ```
+
     ### Yedekli (Artık) Mani
     - **4** veya **5**'ten fazla ``mısra`` ile kurulur.
     - ``Cinaslı Kafiye`` ***kullanılmaz!***
 
+    **Benim şiirim:**
+    ```
+    Düştü kocaman çınar
+    Menekşem solacaktır
+    Kınası da elinde
+    İhtiyarlık götürür
+    ```
 ### Türkü
 - Ezgi(müzik)le söylenir.
 - Anadoluda ``yır`` adı ile de bilinir.
